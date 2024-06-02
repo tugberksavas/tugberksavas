@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugberksavas" alt="tugberksavas" /></a> </p>
 
-- 💬 Ask me about **HTML-CSS-JAVASCRIPT-REACT**
 
 - 📫 How to reach me **tugberk.savas@gmail.com**
 
