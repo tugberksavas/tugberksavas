@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tuğberk Savas</h1>
 <h3 align="center">Fullstack Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugberksavas" alt="tugberksavas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugberksavas" alt="tugberksavas" /></a> </p>
 
 
 - 📫 How to reach me **tugberk.savas@gmail.com**  
