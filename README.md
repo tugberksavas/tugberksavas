@@ -1,4 +1,4 @@
- ![MasterHead]([https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg](https://blog.talent500.co/wp-content/uploads/2023/09/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main-1-1200x500.jpg))
+ ![MasterHead](https://blog.talent500.co/wp-content/uploads/2023/09/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main-1-1200x500.jpg)
 
 <h1 align="center">Hi 👋, I'm Tuğberk Savas</h1>
 <h3 align="center">Fullstack Developer from Turkey</h3>
