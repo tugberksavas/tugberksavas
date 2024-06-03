@@ -8,8 +8,8 @@
 
 - 📫 How to reach me **tugberk.savas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/tugberksavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tugberksavas" height="30" width="40" /></a>
 <a href="https://instagram.com/tugberksavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tugberksavas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tugberk_savas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tugberk_savas" height="30" width="40" /></a>
