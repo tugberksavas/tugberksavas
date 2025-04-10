@@ -1,5 +1,3 @@
-<img src="[https://i.imgur.com/rZ0Sg2f.png](https://camo.githubusercontent.com/b26ef5be5f8692e7b0fb828f21988afa52bdd65f5ba5f0ef5cdc4c249ca2c9d6/68747470733a2f2f6173312e667463646e2e6e65742f76322f6a70672f30332f33322f32312f35362f313030305f465f3333323231353636375f465274734e68364a43747373744e71426c4c6d6950356469784646574e4a66532e6a7067)" alt="banner" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Tuğberk Savas</h1>
 <h3 align="center">Fullstack Developer from Turkey</h3>
 
